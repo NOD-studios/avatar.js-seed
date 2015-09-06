@@ -8,14 +8,15 @@
 ### npm
 ```bash
 npm install --save @nod/avatar.js-seed
-java -jar $(npm bin)/avatar index.js
+cd $(npm bin)
+java -jar avatar ../../index.js
 ```
 
 ### git clone
 ```bash
 git clone git@github.com:NOD-studios/avatar.js-seed.git
-cd "avatar.js-seed.git"
-java -jar "bin/avatar-js.jar" index.js
+cd "avatar.js-seed/bin"
+java -jar avatar-js.jar ../index.js
 ```
 
 

@@ -10,7 +10,11 @@
     "postversion": "git push && git push --tags"
   },
   "bin": {
-    "avatar": "./bin/avatar-js.jar"
+    "avatar-js.jar": "./bin/avatar-js.jar",
+    "avatar-js.dll": "./bin/avatar-js.dll",
+    "libavatar-js.dll": "./bin/libavatar-js.dll",
+    "libavatar-js.dylib": "./bin/libavatar-js.dylib",
+    "libavatar-js.so": "./bin/libavatar-js.so"
   },
   "author": {
     "name": "NOD studios",
