@@ -7,7 +7,7 @@
 
 ### npm
 ```bash
-npm install --save @nod/avatar.js-seed
+npm install --save-dev @nod/avatar.js-seed
 cd $(npm bin)
 java -jar avatar ../../index.js
 ```
