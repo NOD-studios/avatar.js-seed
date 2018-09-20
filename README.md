@@ -1,5 +1,7 @@
 # avatar.js-seed
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NOD-studios/avatar.js-seed.svg)](https://greenkeeper.io/)
+
 #### node.js on JAVA
 
 
